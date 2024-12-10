@@ -1,0 +1,201 @@
+.App {
+    background-color: #3f4d67;
+    color: white;
+    width: 200px;
+    padding: 10px;
+}
+
+
+
+.box {
+    background-color: #b7bdc394;
+    padding: 10px;
+    width: 350px;
+    height: 150px;
+    padding-top: 40px;
+    margin-left: 27px;
+}
+
+.box1 {
+    background-color: #b7bdc394;
+    padding: 10px;
+    width: 350px;
+    height: 150px;
+    padding-top: 40px;
+    margin-left: 30px;
+}
+
+.map {
+    background-color: #b7bdc394;
+    width: 700px;
+    height: 480px;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+
+.progress2 {
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);
+    /* width: 430px; */
+}
+
+.progress-bar2 {
+    height: 10px;
+    border-radius: 30px;
+    background-image: linear-gradient(to bottom,
+            rgba(255, 255, 255, 0.3),
+            rgba(255, 255, 255, 0.05));
+    transition-property: width, background-color;
+}
+
+.progress-moved .progress-bar2 {
+    width: 60%;
+    background-color: #47baef;
+}
+
+.progress3 {
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);
+    /* width: 430px; */
+}
+
+.progress-bar3 {
+    height: 10px;
+    border-radius: 30px;
+    background-image: linear-gradient(to bottom,
+            rgba(255, 255, 255, 0.3),
+            rgba(255, 255, 255, 0.05));
+    transition-property: width, background-color;
+}
+
+.progress-moved1 .progress-bar3 {
+    width: 40%;
+    background-color: #47baef;
+}
+
+.progress4 {
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);
+    /* width: 430px; */
+}
+
+.progress-bar4 {
+    height: 10px;
+    border-radius: 30px;
+    background-image: linear-gradient(to bottom,
+            rgba(255, 255, 255, 0.3),
+            rgba(255, 255, 255, 0.05));
+    transition-property: width, background-color;
+}
+
+.progress-moved2 .progress-bar4 {
+    width: 30%;
+    background-color: #47baef;
+}
+
+.progress5 {
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);
+    /* width: 430px; */
+}
+
+.progress-bar5 {
+    height: 10px;
+    border-radius: 30px;
+    background-image: linear-gradient(to bottom,
+            rgba(255, 255, 255, 0.3),
+            rgba(255, 255, 255, 0.05));
+    transition-property: width, background-color;
+}
+
+.progress-moved3 .progress-bar5 {
+    width: 20%;
+    background-color: #47baef;
+}
+
+.progress6 {
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.25);
+    /* width: 430px; */
+}
+
+.progress-bar6 {
+    height: 10px;
+    border-radius: 30px;
+    background-image: linear-gradient(to bottom,
+            rgba(255, 255, 255, 0.3),
+            rgba(255, 255, 255, 0.05));
+    transition-property: width, background-color;
+}
+
+.progress-moved4 .progress-bar6 {
+    width: 0%;
+    background-color: #47baef;
+}
+
+.rate {
+    margin: 10px;
+    margin-left: 30px;
+    padding: 10px;
+    border: 1px solid rgb(122, 112, 112);
+    height: 300px;
+    width: 30%;
+}
+
+.ratee {
+    padding: 5px;
+}
+
+.ratees {
+    margin: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    border: 1px solid rgb(208, 185, 185);
+    width: 65%;
+}
+
+.progress7 {
+    border-radius: 30px;
+    background-color: rgba(0, 117, 190, 0.25);
+    width: 140px;
+}
+
+.progress-bar7 {
+    height: 10px;
+    border-radius: 30px;
+    background-image: linear-gradient(to bottom,
+            rgba(255, 255, 255, 0.3),
+            rgba(255, 255, 255, 0.05));
+    transition-property: width, background-color;
+}
+
+.progress-moved7 .progress-bar7 {
+    width: 30px;
+    background-color: #47baef;
+}
+
+.charts {
+    background-color: #04a9f5;
+    color: white;
+    width: 380px;
+    height: 300px;
+    padding-top: 30px;
+}
+
+.images img {
+    height: 40px;
+    width: 70px;
+}
+
+.set {
+    border-right: none;
+    width: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border-radius: 50% 4px 4px 50%;
+    background-color: #04a9f5;
+    margin-right: 10px;
+}
+
